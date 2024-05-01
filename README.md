@@ -1,2 +1,2 @@
-# Academic-projects
-1. House sales dashboard 
+# Academic-project
+House sales dashboard, web scraping & stock price prediction model 
